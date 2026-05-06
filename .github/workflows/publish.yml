@@ -1,6 +1,7 @@
 name: Publish n8n community node
 
 on:
+  # Manual publish after npm trusted publisher setup.
   workflow_dispatch:
 
 permissions:
