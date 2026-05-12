@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.10
+
+- Replace the placeholder green node icon with the Hellotracks brand mark.
+
 ## 0.1.9
 
 - Use n8n's authenticated HTTP helper for Hellotracks API calls.
